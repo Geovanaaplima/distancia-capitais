@@ -6,10 +6,10 @@ Tabela de distância terrestre entre capitas brasileiras que mostra a referida d
 
 É preciso ter atenção pois em alguns casos, essa distância é aérea
 # Quais capitais usamos? 
-1- Rio de Janeiro
-2- Goiania 
-3- Natal
-4- Vitória
-5- Palmas
-6- Porto Velho 
-7- São Luís 
+1- Rio de Janeiro,
+2- Goiania, 
+3- Natal,
+4- Vitória,
+5- Palmas,
+6- Porto Velho ,
+7- São Luís ,
