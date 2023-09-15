@@ -12,4 +12,4 @@ Tabela de distância terrestre entre capitas brasileiras que mostra a referida d
 4- Vitória,
 5- Palmas,
 6- Porto Velho ,
-7- São Luís ,
+7- São Luís 
