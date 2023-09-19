@@ -11,5 +11,12 @@ Tabela de distância terrestre entre capitas brasileiras que mostra a referida d
 3- Natal,
 4- Vitória,
 5- Palmas,
-6- Porto Velho ,
+6- Porto Velho e 
 7- São Luís 
+
+# Construido com
+Esse site foi construido com... HTML e  CSS
+
+# Autores 
+Todos que ajudaram a levantar o projeto desde o início
+- Geovana Lima 
